@@ -28,7 +28,8 @@ schema:
   altitude_format: list(foot|meter)
   latitude: float
   longitude: float
-  display_units: list(us|metricwx|metric)
+  #display_units: list(us|metricwx|metric)
+  display_units: str
 ports:
   80/tcp: 48080
 ports_description:
