@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Dalethestirling Add-ons - 1
-url: 'https://github.com/dalethestirling/hassio-addons'
-maintainer: Dale Stirling  <dale.stirling@gmail.com>
+name: Michele Volpe HA Add-ons 
+url: 'https://github.com/michelevol/hassio-addons'
+maintainer: Michele Volpe  <michele.volpeg@gmail.com>
