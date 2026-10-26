@@ -5,7 +5,7 @@ slug: weewx
 description: Addon for the weewx server
 uart: true
 udev: true
-url: "https://github.com/dalethestirling/hassio-addons/tree/main/weewx"
+url: "https://github.com/michelevol/hassio-addons/tree/main/weewx"
 arch:
   - aarch64
   - amd64
@@ -34,4 +34,4 @@ ports:
   80/tcp: 48080
 ports_description:
   80/tcp: Intercepter port
-image: "ghcr.io/dalethestirling/addon-weewx"
+image: "ghcr.io/michelevol/addon-weewx"

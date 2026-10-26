@@ -9,6 +9,8 @@ CONF_FILE="${WEEWX_ROOT}/weewx.conf"
 
 # Add your code herea
 
+bashio::log.info ">>>>>>>>>>>>>> Hello new world Weewx <<<<<<<<<<<<<<<<<<"
+
 STATION_LOCATION=$(bashio::config 'location')
 STATION_ALTITUDE=$(bashio::config 'altitude')
 STATION_ALTITUDE_FMT=$(bashio::config 'altitude_format')
