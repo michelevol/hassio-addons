@@ -24,8 +24,8 @@ RUN wget -O /tmp/weewx-interceptor.zip https://github.com/matthewwall/weewx-inte
 
 
 ### Add metadata
-LABEL org.opencontainers.image.authors="dale.stirling@gmail.com"
-LABEL org.opencontainers.image.vendor="dalethestirling"
+LABEL org.opencontainers.image.authors="michele.volpe@gmail.com"
+LABEL org.opencontainers.image.vendor="michelevolpe"
 
 ### Copy root filesystem
 COPY rootfs /
